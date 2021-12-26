@@ -1,3 +1,3 @@
 # World
 
-This file has a link to [self/hello](Hello);
+This file has a link to [Hello](self/hello);
